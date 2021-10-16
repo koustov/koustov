@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
+<h2 align="center">Hello there! My name is Koustov Maitra 👋🤓</h2>
 
 <p align=center>
 <img src="./images/profile.png" alt="profile" />
