@@ -33,4 +33,4 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [Facebook](https://www.facebook.com/kmaitra) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
-**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
+**Page Views**(Counting since 1st October 2021): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
