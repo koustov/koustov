@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Koustov Maitra 👋🤓</h2>
+<h2 align="center">Hello there! My name is Koustov 👋🤓</h2>
 
 <p align=center>
 <img src="./images/profile.png" alt="profile" />
@@ -12,15 +12,11 @@
 ## 📦 NPM Packages Published by Me
 
 ![npm](https://img.shields.io/npm/dt/react-form-planner?label=react-form-planner&style=plastic)
-
 ![npm](https://img.shields.io/npm/dt/react-ui-css-builder?label=react-ui-css-builder&style=plastic)
-
 ![npm](https://img.shields.io/npm/dt/react-form-viewer?label=react-form-viewer&style=plastic)
-
-![npm](https://img.shields.io/npm/dt/## 🚀 My Side Hustles
-?label=array-initializer&style=plastic)
-
+![npm](https://img.shields.io/npm/dt/array-initializer?label=array-initializer&style=plastic)
 ![npm](https://img.shields.io/npm/dt/js-formula-parser?label=js-formula-parser&style=plastic)
+
 ## 🚀 My Side Hustles
 
 Here are my top-most Side Hustles. Most of the projects I have created are opensource. Please consider contributing to them. You are welcome to follow 🤝 me here to stay connected. Who doesn't need motivations? Show your support with a star(⭐) if any of my projects inspire you or helpful to you.
@@ -41,4 +37,4 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 - [Facebook](https://www.facebook.com/kmaitra) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
-**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
+**Page Views**(Counting since 1st October 2021): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
