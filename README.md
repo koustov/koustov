@@ -6,16 +6,23 @@
 
 ## 📈 My GitHub Stats
 
-![Koustov's Github Stats](https://github-readme-stats.vercel.app/api?username=koustov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koustov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koustov&show_icons=true&locale=en&layout=compact&theme=radical" alt="Albinzr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koustov&show_icons=true&locale=en&theme=tokyonight" alt="Albinzr" width="410" /></p>
+
+<hr>
+
 
 ## 📦 NPM Packages Published by Me
-
+****
 ![npm](https://img.shields.io/npm/dt/react-form-planner?label=react-form-planner&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-ui-css-builder?label=react-ui-css-builder&style=plastic)
-![npm](https://img.shields.io/npm/dt/react-form-viewer?label=react-form-viewer&style=plastic)
+![npm](https://img.shields.io/npm/dt/react-form-viewer?label=react-form-viewer&style=plastic)****
 ![npm](https://img.shields.io/npm/dt/array-initializer?label=array-initializer&style=plastic)
 ![npm](https://img.shields.io/npm/dt/js-formula-parser?label=js-formula-parser&style=plastic)
+
+
+
 
 ## 🚀 My Side Hustles
 
@@ -40,4 +47,4 @@ Here are my top-most Side Hustles. Most of the projects I have created are opens
 
 [My Github Page](https://koustov.github.io/koustov)
 
-**Page Views**(Counting since 1st October 2021): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
+**Page Views**(Counting since 1st October 2022): ![Visitor Count](https://profile-counter.glitch.me/kosutov/count.svg)
