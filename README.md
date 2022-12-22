@@ -12,12 +12,21 @@
 
 <hr>
 
+## Achievements
+
+### reactplay - Level 5
+
+[View my contribution log](https://aviyel.com/user/koustov/43/rewards?log)
+
+![reactplay rewards](https://aviyel.com/assets/uploads/rewards/share/user/950/readme/43.png)
 
 ## 📦 NPM Packages Published by Me
 ****
+![npm](https://img.shields.io/npm/dt/rfp-react-form-builder?label=react-form-builder&style=plastic)
+![npm](https://img.shields.io/npm/dt/json-graphql-parser?label=json-graphql-parser&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-form-planner?label=react-form-planner&style=plastic)
 ![npm](https://img.shields.io/npm/dt/react-ui-css-builder?label=react-ui-css-builder&style=plastic)
-![npm](https://img.shields.io/npm/dt/react-form-viewer?label=react-form-viewer&style=plastic)****
+
 ![npm](https://img.shields.io/npm/dt/array-initializer?label=array-initializer&style=plastic)
 ![npm](https://img.shields.io/npm/dt/js-formula-parser?label=js-formula-parser&style=plastic)
 
